@@ -1,0 +1,4 @@
+dwm
+dmenu
+feh
+acpitool
